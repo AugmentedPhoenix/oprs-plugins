@@ -1,4 +1,4 @@
-package com.example.javaexample;
+package org.avarum.skiller;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;

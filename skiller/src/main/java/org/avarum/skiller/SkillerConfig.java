@@ -30,7 +30,7 @@ import net.runelite.client.config.ConfigItem;
 
 @ConfigGroup("JavaExampleConfig")
 
-public interface JavaExampleConfig extends Config
+public interface SkillerConfig extends Config
 {
 	@ConfigItem(
 		keyName = "example",

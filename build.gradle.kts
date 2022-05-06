@@ -8,7 +8,7 @@ plugins {
     checkstyle
 }
 
-project.extra["GithubUrl"] = "https://github.com/<INSERT NAME>/<INSERT REPOSITORY>"
+project.extra["GithubUrl"] = "https://github.com/AugmentedPhoenix/oprs-plugins"
 
 apply<BootstrapPlugin>()
 

@@ -39,8 +39,8 @@ buildscript {
 
 version = "0.0.1"
 
-project.extra["PluginName"] = "Java example plugin" // This is the name that is used in the external plugin manager panel
-project.extra["PluginDescription"] = "Java example plugin" // This is the description that is used in the external plugin manager panel
+project.extra["PluginName"] = "skiller" // This is the name that is used in the external plugin manager panel
+project.extra["PluginDescription"] = "does skill things?" // This is the description that is used in the external plugin manager panel
 
 dependencies {
     annotationProcessor(Libraries.lombok)
